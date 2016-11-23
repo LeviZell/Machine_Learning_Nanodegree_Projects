@@ -8,7 +8,7 @@ This course involved implementing supervised, unsupervised, & reinforcement lear
 learning model using Python
 
 
-""Projects List:""
+Projects List:
 <br />
 
     Titanic Survival Guide <br />
