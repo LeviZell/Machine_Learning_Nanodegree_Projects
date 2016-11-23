@@ -1,10 +1,13 @@
 # Machine_Learning_Nanodegree_Projects
 <br />
-This repository includes projects created during Udacity's Machine Learning Nanodegree Course
+
+##This repository includes projects created during Udacity's Machine Learning Nanodegree Course
 <br />
+
 This course involved implementing supervised, unsupervised, & reinforcement learning machine 
 learning model using Python
 <br />
+
 Projects List:<br />
 >  Titanic Survival Guide <br />
     •	Used Decision Tree to predict the best features that best predicted survival<br />
