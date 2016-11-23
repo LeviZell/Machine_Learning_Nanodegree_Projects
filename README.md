@@ -1,4 +1,4 @@
-README file
+# Machine_Learning_Nanodegree_Projects
 
 This repository includes projects created during Udacity's Machine Learning Nanodegree Course
 
