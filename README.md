@@ -8,8 +8,9 @@ This course involved implementing supervised, unsupervised, & reinforcement lear
 learning model using Python
 
 
-<b>Projects List: <b/>
+""Projects List:""
 <br />
+
     Titanic Survival Guide <br />
         •	Used Decision Tree to predict the best features that best predicted survival<br />
     Boston Housing Price Predicter <br />
